@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="chaos glow.png">
+	<!-- Created with Adobe Animate version 16.1.0.86 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="glow 10000" x="10" y="10" width="1437" height="1415" frameX="-10" frameY="-57" frameWidth="1447" frameHeight="1525"/>
+	<SubTexture name="glow 10001" x="10" y="10" width="1437" height="1415" frameX="-10" frameY="-57" frameWidth="1447" frameHeight="1525"/>
+	<SubTexture name="glow 10002" x="1457" y="10" width="1402" height="1454" frameX="-5" frameY="0" frameWidth="1447" frameHeight="1525"/>
+	<SubTexture name="glow 10003" x="1457" y="10" width="1402" height="1454" frameX="-5" frameY="0" frameWidth="1447" frameHeight="1525"/>
+	<SubTexture name="glow 10004" x="10" y="1474" width="1412" height="1454" frameX="0" frameY="-71" frameWidth="1447" frameHeight="1525"/>
+	<SubTexture name="glow 10005" x="10" y="1474" width="1412" height="1454" frameX="0" frameY="-71" frameWidth="1447" frameHeight="1525"/>
+</TextureAtlas>
